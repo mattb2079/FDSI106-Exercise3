@@ -1,0 +1,16 @@
+body{
+    background-image: radial-gradient(red, yellow, black);
+    height: 100vh;
+}
+
+h1{
+    margin-bottom: 20px;
+}
+
+.row{
+    margin-bottom: 25px;;
+}
+
+label{
+    text-align: right;
+}
